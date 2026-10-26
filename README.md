@@ -1,57 +1,74 @@
-# AI & Automation Project Portfolio
+# AI, Automation & Data Portfolio
 
-This repository presents sanitized summaries of AI and automation projects I worked on in a corporate environment. Confidential data, internal code, proprietary business logic, and screenshots are intentionally omitted.
+This repository brings together a public academic data-analysis project and high-level, sanitized summaries of selected professional work in AI, automation, and data-driven process improvement.
 
-## 1. AI-powered CX Best Practices Advisor
+## Public Data Analysis Project
 
-### Problem
-Global teams had access to more than 100 customer experience initiatives across 20+ operating entities, but the information was difficult to search and reuse efficiently.
+### Data Visualization Exercise — Data Science for Managers, ESMT Berlin
 
-### What I built
-I developed an AI-enabled internal decision-support tool that matches business challenges with relevant best-practice initiatives.
+This academic project is a simple hands-on example of my work with data analysis and visualization.
 
-### My contribution
-- Structured the underlying knowledge base
-- Defined user interaction and matching logic
-- Tested output relevance
-- Iterated the solution based on stakeholder feedback
-- Supported adoption across global teams
+It demonstrates:
+- exploratory data analysis
+- visualization of patterns and relationships
+- interpretation of results
+- communicating analytical findings clearly
 
-### Impact
-- Improved access to 100+ existing initiatives
-- Supported knowledge sharing across 20+ operating entities
-- Reduced manual effort required to identify relevant internal examples
+**Tools:** R, R Markdown, HTML
+
+The full analysis will be published in this repository as a web page.
 
 ---
 
-## 2. Global Workflow Automation
+## Professional Experience
 
-### Problem
-Action-plan collection across multiple teams relied heavily on fragmented email communication and manual follow-up.
+### AI-enabled Decision Support — Allianz SE
 
-### What I built
-An end-to-end workflow using Microsoft Power Apps, Power Automate, and SharePoint.
+In my current role at Allianz, I worked on an internal AI-enabled decision-support tool designed to help global teams identify relevant customer experience best practices based on specific business challenges.
 
-### My contribution
-- Translated stakeholder requirements into workflow logic
-- Designed structured digital inputs
-- Automated workflow steps and notifications
-- Supported testing and rollout
+My contribution included:
+- structuring information from 100+ initiatives across 20+ operating entities
+- translating business needs into structured matching logic
+- testing and refining outputs
+- incorporating stakeholder feedback
+- supporting adoption across international teams
 
-### Impact
-- Standardized the process across 18+ operating entities
-- Reduced manual workload by approximately 60%
-- Improved process transparency and data consistency
+Because this solution was developed in a corporate environment, I cannot share source code, screenshots, prompts, internal data, or proprietary implementation details.
+
+### Global Workflow Automation — Allianz SE
+
+I built an end-to-end workflow automation solution using Microsoft Power Apps, Power Automate, and SharePoint across 18+ operating entities.
+
+The solution:
+- standardized data and action-plan collection
+- automated workflow steps and follow-up
+- improved process transparency and real-time visibility
+- reduced manual workload by approximately 60%
+
+For confidentiality reasons, internal code, screenshots, company data, and implementation details are not published here.
+
+### Strategic Analytics Pilot — Allianz SE
+
+I also supported a strategic customer-measurement pilot exploring social listening and predictive analytics across 7 social channels and 10+ markets.
+
+My work included:
+- supporting data onboarding and vendor collaboration
+- consolidating stakeholder feedback
+- analyzing potential insight gaps versus existing customer metrics
+- translating findings into business-oriented recommendations
+
+The pilot identified approximately 15–20% incremental insight coverage versus existing metrics.
 
 ---
 
-## Tools & Skills
-- Generative AI applications
-- Prompt engineering
-- Workflow automation
-- Power Apps
-- Power Automate
-- SharePoint
-- Data analysis
-- Process logic
-- Testing and documentation
+## Current Learning Focus
+
+I am currently expanding my technical skills in Python, SQL, automation, and AI applications, with a particular interest in fintech and compliance automation.
+
+---
+
+## Confidentiality Note
+
+Professional projects completed at Allianz are presented only as high-level, sanitized case summaries.
+
+No confidential company data, source code, internal documents, screenshots, prompts, proprietary business logic, or implementation details are included in this repository.
